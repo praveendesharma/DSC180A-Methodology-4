@@ -3,7 +3,6 @@ Praveen Sharma, p4sharma@ucsd.edu
 <br>
 
 **1. What is the most interesting topic covered in your domain this quarter?**  
-
 The most interesting topic to me was how language models represent emotions internally. In our pilot, we asked Qwen to write stories that conveyed a particular emotion without naming it directly. A reader might recognize anxiety from a character checking their phone over and over, even if the word “anxious” never appears. That made me curious whether Qwen shows a similar pattern of internal activity when it writes about anxiety in a completely different situation.
 
 I find this interesting because recognizing an emotion requires looking beyond individual words to understand the situation and a character’s behavior. If similar internal patterns appear across different stories, that could suggest the model represents something more general about the emotion. I would like to understand whether these patterns reflect emotions consistently or depend heavily on the language and situations in each story.  
