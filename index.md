@@ -1,4 +1,4 @@
-# Capstone Example Jekyll Website
+# DSC 180A Methodology Assignment 4
 
 This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
 
