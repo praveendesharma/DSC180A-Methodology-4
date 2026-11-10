@@ -1,5 +1,6 @@
 # DSC 180A Methodology Assignment 4
-Praveen Sharma, p4sharma@ucsd.edu  
+Praveen Sharma, p4sharma@ucsd.edu 
+Domain: D30, Mentors: Tianhao Wang and Misha Belkin
 <br>
 
 **1. What is the most interesting topic covered in your domain this quarter?**  
